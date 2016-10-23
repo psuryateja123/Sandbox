@@ -5,13 +5,11 @@ A simple application with three screens:
  - Details screen
  - Sign in screen
  
-A sandbox freestyle application that you can add a testing framework to.
-Anyone of:
- - UI Automator
- - Appium
- - Espresso
- - Kalabash
- - Sikuli
+ 
+ The automation of the app was done using the android espresso and used spoon plugin to run on multiple devices and also to capture the logs.
+ 
+ 
+ 
  
 
 ####Current Acceptance Criteria:
