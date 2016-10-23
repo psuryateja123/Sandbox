@@ -12,6 +12,8 @@ import android.widget.ListView;
 
 import java.util.List;
 
+import static android.support.v7.appcompat.R.styleable.View;
+
 public class MainActivity extends AppCompatActivity {
 
     private ArrayAdapter<String> adapter;
